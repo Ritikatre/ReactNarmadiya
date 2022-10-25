@@ -1,0 +1,164 @@
+@media (max-width:3840px) {
+    
+    .thoughts {
+        padding: 17px 0;
+    }
+    .thought_hed {
+        width: 200px;
+        float: left;
+    }
+    .thought_des {
+        padding-left: 210px;
+    }
+  
+    
+}
+@media (max-width:1920px) {
+
+    .thoughts {
+        padding: 17px 0;
+    }
+    .thought_hed {
+        width: 200px;
+        float: left;
+    }
+    .thought_des {
+        padding-left: 210px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 1279px){
+    .container {
+        width: 100%;
+    }
+       
+    }
+
+
+
+@media (max-width:1280px) {
+
+    .thoughts {
+        padding: 17px 0;
+    }
+    .thought_hed {
+        width: 200px;
+        float: left;
+    }
+    .thought_des {
+        padding-left: 210px;
+    }
+
+}
+
+
+
+@media (max-width:1024px) {
+
+    .thoughts {
+        padding: 17px 0;
+    }
+    .thought_hed {
+        width: 200px;
+        float: left;
+    }
+    .thought_des {
+        padding-left: 210px;
+    }
+    .headcontainer {
+
+        height: auto;
+    }
+    .society_news.animated2.drop_eff2 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    button.vivah {
+
+        padding: 5px 20px;
+        font-size: 15px;
+        margin-top: 10px;
+
+        }
+
+}
+
+
+
+@media (max-width:768px) {
+
+    .thoughts {
+        padding: 17px 0;
+    }
+    .thought_hed {
+        width: 100px;
+        float: left;
+    }
+    .thought_des {
+        padding-left: 160px;
+    }
+    .headcontainer a {
+        
+        font-size: 50px;
+        padding-top: 45px;
+}
+
+}
+@media (max-width:767px) {
+
+    .news_list marquee {
+        height: auto;
+
+    }
+  
+       
+  
+}
+
+
+@media (max-width:580px) {
+
+    .thoughts {
+        padding: 17px 0;
+    }
+    .thought_hed {
+        width: 100px;
+        float: left;
+    }
+    .thought_des {
+        padding-top: 30px;
+        padding-left: 10px;
+    }
+
+    /* edited */
+
+    .headcontainer a {
+        
+        font-size: 25px;
+    padding-top: 25px;
+    margin-left: 15px;
+}
+    .headcontainer {
+
+        height: auto;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0;
+    }
+
+
+         .carousel-item  img{
+             height: auto;
+        } 
+        .footer-copyright.text-center {
+            font-size: 15px;
+        }
+        footer.page-footer {
+
+            background-position: center;
+        }
+ 
+}
